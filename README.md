@@ -1,0 +1,2 @@
+# SmallCode.Tool
+SmallTool
