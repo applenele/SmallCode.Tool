@@ -1,0 +1,14 @@
+﻿<Window x:Class="SmallCode.Tool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmallCode.Tool"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="excel转txt" HorizontalAlignment="Left" Margin="34,24,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-1.138,-2.625" Click="Button_Click"/>
+        <Label Content="" Name="lbWarning" HorizontalAlignment="Left" Margin="124,21,0,0" VerticalAlignment="Top" Width="197"/>
+
+    </Grid>
+</Window>
